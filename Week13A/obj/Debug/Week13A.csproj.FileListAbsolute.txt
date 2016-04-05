@@ -1,0 +1,6 @@
+D:\Codecool\Github\Csharp_week13A\Week13A\bin\Debug\Week13A.exe.config
+D:\Codecool\Github\Csharp_week13A\Week13A\bin\Debug\Week13A.exe
+D:\Codecool\Github\Csharp_week13A\Week13A\bin\Debug\Week13A.pdb
+D:\Codecool\Github\Csharp_week13A\Week13A\obj\Debug\Week13A.csprojResolveAssemblyReference.cache
+D:\Codecool\Github\Csharp_week13A\Week13A\obj\Debug\Week13A.exe
+D:\Codecool\Github\Csharp_week13A\Week13A\obj\Debug\Week13A.pdb

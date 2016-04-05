@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13A", "Week13A\Week13A.csproj", "{12AA3821-8938-4A0B-AD83-D5DCD8A947DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerEvents", "TimerEvents\TimerEvents.csproj", "{6C92C2FD-F504-43DB-9A0B-E77CCAB2D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortString", "SortString\SortString.csproj", "{928CB1AB-2704-44D1-8490-AA31705FE487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AA3821-8938-4A0B-AD83-D5DCD8A947DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AA3821-8938-4A0B-AD83-D5DCD8A947DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AA3821-8938-4A0B-AD83-D5DCD8A947DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AA3821-8938-4A0B-AD83-D5DCD8A947DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C92C2FD-F504-43DB-9A0B-E77CCAB2D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C92C2FD-F504-43DB-9A0B-E77CCAB2D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C92C2FD-F504-43DB-9A0B-E77CCAB2D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C92C2FD-F504-43DB-9A0B-E77CCAB2D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928CB1AB-2704-44D1-8490-AA31705FE487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928CB1AB-2704-44D1-8490-AA31705FE487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928CB1AB-2704-44D1-8490-AA31705FE487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928CB1AB-2704-44D1-8490-AA31705FE487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
